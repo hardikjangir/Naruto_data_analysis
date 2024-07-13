@@ -13,3 +13,15 @@ This folder contains the code responsible for training a text classifier capable
 
 4. theme_classifier
 Within this folder, you can explore the code used to extract the principal themes of Naruto using Zero-shot classifiers.
+
+
+Libraries used:
+Scrapy
+Spacy
+NetworkX
+PyViz
+nltk
+Transformers
+seaborn
+matplotlib
+numpy
