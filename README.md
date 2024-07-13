@@ -16,12 +16,12 @@ Within this folder, you can explore the code used to extract the principal theme
 
 
 Libraries used:
-Scrapy
-Spacy
-NetworkX
-PyViz
-nltk
-Transformers
-seaborn
-matplotlib
+Scrapy,
+Spacy,
+NetworkX,
+PyViz,
+nltk,
+Transformers,
+seaborn,
+matplotlib,
 numpy
